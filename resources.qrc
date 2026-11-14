@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file alias="sounds/chime.wav">assets/sounds/chime.wav</file>
+        <file alias="sounds/gentle.wav">assets/sounds/gentle.wav</file>
+        <file alias="sounds/classic.wav">assets/sounds/classic.wav</file>
+        <file alias="sounds/digital.wav">assets/sounds/digital.wav</file>
+        <file alias="icons/arrow_up_light.png">assets/icons/arrow_up_light.png</file>
+        <file alias="icons/arrow_down_light.png">assets/icons/arrow_down_light.png</file>
+        <file alias="icons/arrow_up_dark.png">assets/icons/arrow_up_dark.png</file>
+        <file alias="icons/arrow_down_dark.png">assets/icons/arrow_down_dark.png</file>
+        <file alias="icons/check_white.png">assets/icons/check_white.png</file>
+    </qresource>
+</RCC>
